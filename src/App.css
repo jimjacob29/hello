@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.task{
+  margin:5px;
+  padding :2px;
+  border: 2px solid blueviolet;
+  border-radius: 15px;
+}
+.buttonAdd{
+  background-color:  blue;
+  color:white;
+  width: 80px;
+  height:50px;
+  margin:5px;
+  border-radius: 50px;
+}
+.center{
+  display :flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh
+}
+
+.buttonDelete{
+  background-color: red;
+  font-weight: 700;
+  height:30px;
+  border-radius: 40px;
+}
